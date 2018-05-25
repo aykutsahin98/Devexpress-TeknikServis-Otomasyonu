@@ -1,0 +1,16 @@
+1- Programý Yükledikten Sonra;
+	•Personel Giriþi Ýçin Kullanýcý Adý ve Þifre --> ayse/1234
+	•Yönetici Giriþi Ýçin Kullanýcý Adý ve Þifre -->aykutsahin/aykut
+	•Tekniker Ekraný Ýçin Kullanýcý Adý ve Þifre --> ebru/1234
+Ýle Giriþ Yapabilirsiniz.
+
+2-Program Kurulduktan Sonra, Düzgün Çalýþabilmesi Ýçin Veritabanýný Program Dosyasý Ýçinde ki
+Veritabaný Adlý Dosyadan, Kurunuz:
+
+	•Kurulum --> Windows(C:) Klasörü Ýçerisine Yedek Adýnda Klasör Açýp, Ýçerisine .bak 
+	Uzantýlý Dosyayý Yükleyiniz.
+
+	•Mssql Üzerinde Database Sað Týklayýp Restore Database Üzerinden Backup Klasörünü 
+	Yükleyiniz.
+
+3- Detaylý Bilgi Almak Ýçin sahinaykut88@gmail.com Adresine Mail Gönderebilirsiniz.
